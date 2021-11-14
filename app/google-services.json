@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "175470507525",
+    "firebase_url": "https://esp32-firebase-iot-8d6ef-default-rtdb.firebaseio.com",
+    "project_id": "esp32-firebase-iot-8d6ef",
+    "storage_bucket": "esp32-firebase-iot-8d6ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175470507525:android:0bda0cda24918cc3120e6c",
+        "android_client_info": {
+          "package_name": "id.bantolo.iot.fti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175470507525-vuesjaor82jrfcm4atuimdjckmjlknh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZtRkBYXgZmRCVE9MMNS6XY8_ViwZpFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175470507525-vuesjaor82jrfcm4atuimdjckmjlknh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175470507525:android:612a8b8b88851378120e6c",
+        "android_client_info": {
+          "package_name": "id.gits.si.esp32_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175470507525-vuesjaor82jrfcm4atuimdjckmjlknh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZtRkBYXgZmRCVE9MMNS6XY8_ViwZpFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175470507525-vuesjaor82jrfcm4atuimdjckmjlknh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
